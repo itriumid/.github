@@ -55,13 +55,14 @@ reopened — and skip it otherwise.
 
 The `itriumid` organization's `.github` repository. `profile/README.md` is the organization's
 public profile on github.com/itriumid. The pull request and issue templates under `.github/` are
-the default for every Itrium repository that doesn't have its own.
+the default for every Itrium repository that doesn't have its own, and so is `SECURITY.md`.
 
 - **The profile is public copy.** Write it in Itrium's voice: see
   `.handbook/conventions/reference/brand.md`. Show every change to the profile text to the user
   before committing it.
 - **Don't edit `profile/itrium-lockup-*.svg` by hand.** Regenerate them in `~/Itrium/Assets`
   (`python3 source/build.py`) and copy them over.
-- **No domain, email address or other contact details** until `itrium.id` is registered.
+- **Public contact details are `hello@itrium.id`, `security@itrium.id` and `itrium.id`.** Never
+  publish any other address on the domain.
 - There's nothing to build or test. Check the profile's rendering on GitHub in both light and
   dark themes.
