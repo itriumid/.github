@@ -22,6 +22,13 @@ Everything we make for free stays free: no hidden upsell, no account wall and no
 advertisements. It doesn't collect, track or sell anything, and it's open source, so you can
 check.
 
+## Get in touch
+
+Write to us at [hello@itrium.id](mailto:hello@itrium.id), whether it's a quick question or a
+whole project. The first conversation is free. To report a security problem in anything we
+make, write to [security@itrium.id](mailto:security@itrium.id) instead, so it stays private
+until it's fixed. More about us at [itrium.id](https://itrium.id).
+
 ---
 
 <sub>Itrium is the Indonesian word for yttrium: element 39.</sub>
