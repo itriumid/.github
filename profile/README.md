@@ -17,6 +17,9 @@ and websites built to order, and free tools that respect your privacy.
 
 - **[Honk](https://github.com/itriumid/honk)**: a lightweight soundboard for the desktop, with
   global hotkeys and a macOS menu bar popover. It makes no network requests at all.
+- **[Hindsight](https://github.com/itriumid/hindsight)**: keeps the last few minutes of what was
+  said, up to three hours, in memory, so you can save them when they turn out to matter.
+  Encrypted while it waits, written to disk only when you save, and it never goes online.
 
 Everything we make for free stays free: no hidden upsell, no account wall and no
 advertisements. It doesn't collect, track or sell anything, and it's open source, so you can
