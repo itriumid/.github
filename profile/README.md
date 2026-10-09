@@ -20,6 +20,10 @@ and websites built to order, and free tools that respect your privacy.
 - **[Hindsight](https://github.com/itriumid/hindsight)**: keeps the last few minutes of what was
   said, up to three hours, in memory, so you can save them when they turn out to matter.
   Encrypted while it waits, written to disk only when you save, and it never goes online.
+- **[Web tools](https://tools.itrium.id)**: a WhatsApp click-to-chat link maker and a bill
+  splitter that run in your browser. Nothing you type is sent to us.
+- **[Rhodonite theme](https://itrium.id/rhodonite)**: our palette for Visual Studio Code and the
+  editors built on it, in dark and light, every color readable at level AA.
 
 Everything we make for free stays free: no hidden upsell, no account wall and no
 advertisements. It doesn't collect, track or sell anything, and it's open source, so you can
