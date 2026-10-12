@@ -20,6 +20,8 @@ and websites built to order, and free tools that respect your privacy.
 - **[Hindsight](https://github.com/itriumid/hindsight)**: keeps the last few minutes of what was
   said, up to three hours, in memory, so you can save them when they turn out to matter.
   Encrypted while it waits, written to disk only when you save, and it never goes online.
+- **[Amber](https://amber.itrium.id)**: lists for to-dos and bucket lists, with categories, tags,
+  steps and search. It works offline, and your lists stay on your device.
 - **[Web tools](https://tools.itrium.id)**: a WhatsApp click-to-chat link maker and a bill
   splitter that run in your browser. Nothing you type is sent to us.
 - **[Rhodonite theme](https://itrium.id/rhodonite)**: our palette for Visual Studio Code and the
