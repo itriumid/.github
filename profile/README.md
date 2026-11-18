@@ -19,8 +19,8 @@ In your browser, nothing to install:
 
 - **[Amber](https://amber.itrium.id)**: lists for to-dos and bucket lists, with categories, tags,
   steps and search. It works offline, and your lists stay on your device.
-- **[Web tools](https://tools.itrium.id)**: a WhatsApp click-to-chat link maker and a bill
-  splitter that run in your browser. Nothing you type is sent to us.
+- **[Flint](https://flint.itrium.id)**: free web tools, a WhatsApp click-to-chat link maker and a
+  bill splitter, that run in your browser and work offline. Nothing you type is sent to us.
 
 On your computer, for Mac, Windows and Linux:
 
